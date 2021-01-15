@@ -1,0 +1,146 @@
+﻿<html>
+	<head>
+	<meta charset="utf-8">
+	<title>Giris Yap | Worph</title>
+
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+
+	<link rel="shortcut icon" href="..\img\icon.png">
+  <link rel="stylesheet" href="..\main\newdesign\bootstrap-new.css">
+  <link rel="stylesheet" href="..\main\newdesign\orangenew.css">
+	 
+
+	</head>
+	<body class="buy-bg">
+	<section class="nav-bg">
+	  <div class="container">
+	      <div class="row">
+					<nav class="navbar navbar-expand-lg navbar-light bg-transparent p-0 w-100">
+	          <a class="navbar-brand" href="..\index.htm">
+	            <img src="..\logo_new.png" alt="" width="50" height="50">
+	          </a>
+	          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+	            <span class="navbar-toggler-icon"></span>
+	          </button>
+
+	          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+	            <ul class="navbar-nav mx-auto">
+	              
+	            </ul>
+	          </div>
+																			<a href="register\index.htm" class="auth-nav font-14 d-lg-block d-none font-medium text-center">Kayit</a>
+							<a href="index.htm" class="auth-nav active font-14 d-lg-block d-none font-medium text-center">Giris</a>
+						
+	        </nav>
+	      </div>
+	    </div>
+	</section>
+
+	<div class="alerts">
+	</div>
+	    <div class="container">
+	      <div class="row2">
+	        <div class="ym-title font-bold text-center mx-auto"><span class="d-block">Giris</span></div>
+	        	<div class="fh5co-blog" style="margin-bottom: 150px;">
+					<div class="fh5co-boxbox">
+						<div class="blog-text">
+							<form class="authorization" method="POST">
+							<div class="main-error"></div>
+							<div class="row2 form-group">
+								<div class="col-md-13">
+									<label class="labelAut font-regular text-white" for="account">Kullanici Ad</label>
+									<input type="text" name="name" class="form-control login" style="outline: none;">
+								</div>
+							</div>
+							<div class="row2 form-group" style="margin-bottom: 0px;">
+								<div class="col-md-13">
+									<label class="labelAut font-regular text-white" for="name">Sifre</label>
+									<input type="password" name="password" class="form-control password" style="outline: none;">
+								</div>
+							</div>
+								
+							<div class="row2 form-group">
+								<div class="col-md-13">
+									
+									<div class="d-flex js-center">
+										 
+									</div>
+								</div>
+							</div>
+							<div class="form-group" align="center" style="margin-bottom: 5px;">
+								<input type="submit" value="Giris" name="submit" class="btn btn-primary" style="outline: none;">
+							</div>
+							</form>
+						</div>
+					</div>
+	        	</div>
+			</div>
+		</div>
+
+
+
+
+		
+	    <script src="..\main\js\jQuery.min.js"></script>
+	    <script src="js/jquery-3.2.1.min.js"></script>
+	    <script src="js/bootstrap.min.js"></script>
+		<script type="text/javascript">
+		$(".authorization").submit(function(){
+
+			var login = $(this).find('.login').val();
+			var password = $(this).find('.password').val();
+			
+
+			var sendData = { login: login , password: password};
+
+			$.ajax ({
+				type: 'POST',
+				url: "/authorization/auth/",
+				data: sendData,
+				dataType: 'json',
+				success: function(data)
+					{
+						if(data['status'] == 1){
+							$(".alerts").append(
+								"<div class='alert alert-success' role='alert'>" +
+									"<p>" + data['message'] + "</p>" +
+								"</div>"
+							);
+							setTimeout(function(){
+								window.location.href = "/profile/";
+							}, 1000);
+						}else{
+							$(".alerts").append(
+								"<div class='alert alert-danger' role='alert'>" +
+									"<p>" + data['message'] + "</p>" +
+								"</div>"
+							);
+							setTimeout(function(){
+								window.location.href = "/authorization/";
+							}, 1000);
+						}
+						removeAlert();
+					}
+			});
+			return false;
+		});
+
+		function removeAlert(){
+
+			var GetLastAlert = $('.alerts .alert').last();
+
+			setTimeout(function(){
+				GetLastAlert.slideUp(500);
+			}, 4000);
+
+			setTimeout(function(){
+				GetLastAlert.remove();
+			}, 4500);
+
+		}
+	</script>
+	</body>
+</html>
+
