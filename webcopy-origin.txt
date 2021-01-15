@@ -1,0 +1,484 @@
+Uri: https://worphyazilim.com/
+File Name: c:\Downloaded Web Sites\worphyazilim.com\index.htm
+Content Type: text/html
+
+Uri: https://worphyazilim.com/worph/pages/assets/img/favicon.png
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\img\favicon.png
+Content Type: image/png
+
+Uri: https://worphyazilim.com/worph/pages/assets/img/apple-touch-icon.png
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\img\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://worphyazilim.com/worph/pages/assets/vendor/bootstrap/css/bootstrap.min.css
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\vendor\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://worphyazilim.com/worph/pages/assets/vendor/icofont/icofont.min.css
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\vendor\icofont\icofont.min.css
+Content Type: text/css
+
+Uri: https://worphyazilim.com/worph/pages/assets/vendor/remixicon/remixicon.css
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\vendor\remixicon\remixicon.css
+Content Type: text/css
+
+Uri: https://worphyazilim.com/worph/pages/assets/vendor/boxicons/css/boxicons.min.css
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\vendor\boxicons\css\boxicons.min.css
+Content Type: text/css
+
+Uri: https://worphyazilim.com/worph/pages/assets/vendor/owl.carousel/assets/owl.carousel.min.css
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\vendor\owl.carousel\assets\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://worphyazilim.com/worph/pages/assets/vendor/venobox/venobox.css
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\vendor\venobox\venobox.css
+Content Type: text/css
+
+Uri: https://worphyazilim.com/worph/pages/assets/vendor/aos/aos.css
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\vendor\aos\aos.css
+Content Type: text/css
+
+Uri: https://worphyazilim.com/worph/pages/assets/css/style.css
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\css\style.css
+Content Type: text/css
+
+Uri: https://worphyazilim.com/koruma.php
+File Name: c:\Downloaded Web Sites\worphyazilim.com\koruma.html
+Content Type: text/html
+
+Uri: https://worphyazilim.com/gizlilik.php
+File Name: c:\Downloaded Web Sites\worphyazilim.com\gizlilik.html
+Content Type: text/html
+
+Uri: https://worphyazilim.com/worph/pages/assets/img/22.png
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\img\22.png
+Content Type: image/png
+
+Uri: https://worphyazilim.com/worph/pages/assets/img/testimonials/testimonials-1.jpg
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\img\testimonials\testimonials-1.jpg
+Content Type: image/jpeg
+
+Uri: https://worphyazilim.com/worph/pages/assets/img/testimonials/testimonials-2.jpg
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\img\testimonials\testimonials-2.jpg
+Content Type: image/jpeg
+
+Uri: https://worphyazilim.com/worph/pages/assets/img/testimonials/testimonials-3.jpg
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\img\testimonials\testimonials-3.jpg
+Content Type: image/jpeg
+
+Uri: https://worphyazilim.com/worph/pages/assets/img/portfolio/rage.png
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\img\portfolio\rage.png
+Content Type: image/png
+
+Uri: https://worphyazilim.com/worph/pages/assets/img/portfolio/legit.png
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\img\portfolio\legit.png
+Content Type: image/png
+
+Uri: https://worphyazilim.com/worph/pages/assets/img/portfolio/wh.png
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\img\portfolio\wh.png
+Content Type: image/png
+
+Uri: https://worphyazilim.com/worph/pages/assets/img/portfolio/misc.png
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\img\portfolio\misc.png
+Content Type: image/png
+
+Uri: https://worphyazilim.com/worph/pages/assets/img/portfolio/env.png
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\img\portfolio\env.png
+Content Type: image/png
+
+Uri: https://worphyazilim.com/worph/pages/assets/img/portfolio/ayarlar.png
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\img\portfolio\ayarlar.png
+Content Type: image/png
+
+Uri: https://worphyazilim.com/worph/pages/assets/vendor/jquery/jquery.min.js
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\vendor\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://worphyazilim.com/worph/pages/assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\vendor\bootstrap\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://worphyazilim.com/worph/pages/assets/vendor/jquery.easing/jquery.easing.min.js
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\vendor\jquery.easing\jquery.easing.min.js
+Content Type: application/javascript
+
+Uri: https://worphyazilim.com/worph/pages/assets/vendor/php-email-form/validate.js
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\vendor\php-email-form\validate.js
+Content Type: application/javascript
+
+Uri: https://worphyazilim.com/worph/pages/assets/vendor/waypoints/jquery.waypoints.min.js
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\vendor\waypoints\jquery.waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://worphyazilim.com/worph/pages/assets/vendor/counterup/counterup.min.js
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\vendor\counterup\counterup.min.js
+Content Type: application/javascript
+
+Uri: https://worphyazilim.com/worph/pages/assets/vendor/owl.carousel/owl.carousel.min.js
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\vendor\owl.carousel\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://worphyazilim.com/worph/pages/assets/vendor/isotope-layout/isotope.pkgd.min.js
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\vendor\isotope-layout\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://worphyazilim.com/worph/pages/assets/vendor/venobox/venobox.min.js
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\vendor\venobox\venobox.min.js
+Content Type: application/javascript
+
+Uri: https://worphyazilim.com/worph/pages/assets/vendor/aos/aos.js
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\vendor\aos\aos.js
+Content Type: application/javascript
+
+Uri: https://worphyazilim.com/worph/pages/assets/js/main.js
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://worphyazilim.com/worph/pages/assets/vendor/icofont/fonts/icofont.woff2
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\vendor\icofont\fonts\icofont.woff2
+Content Type: font/woff2
+
+Uri: https://worphyazilim.com/worph/pages/assets/vendor/icofont/fonts/icofont.woff
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\vendor\icofont\fonts\icofont.woff
+Content Type: font/woff
+
+Uri: https://worphyazilim.com/worph/pages/assets/vendor/remixicon/remixicon.eot?t=1590207869815
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\vendor\remixicon\remixicon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://worphyazilim.com/worph/pages/assets/vendor/remixicon/remixicon.woff2?t=1590207869815
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\vendor\remixicon\remixicon.woff2
+Content Type: font/woff2
+
+Uri: https://worphyazilim.com/worph/pages/assets/vendor/remixicon/remixicon.woff?t=1590207869815
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\vendor\remixicon\remixicon.woff
+Content Type: font/woff
+
+Uri: https://worphyazilim.com/worph/pages/assets/vendor/remixicon/remixicon.ttf?t=1590207869815
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\vendor\remixicon\remixicon.ttf
+Content Type: font/ttf
+
+Uri: https://worphyazilim.com/worph/pages/assets/vendor/remixicon/remixicon.svg?t=1590207869815
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\vendor\remixicon\remixicon.svg
+Content Type: image/svg+xml
+
+Uri: https://worphyazilim.com/worph/pages/assets/vendor/boxicons/fonts/boxicons.eot
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\vendor\boxicons\fonts\boxicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://worphyazilim.com/worph/pages/assets/vendor/boxicons/fonts/boxicons.woff2
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\vendor\boxicons\fonts\boxicons.woff2
+Content Type: font/woff2
+
+Uri: https://worphyazilim.com/worph/pages/assets/vendor/boxicons/fonts/boxicons.woff
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\vendor\boxicons\fonts\boxicons.woff
+Content Type: font/woff
+
+Uri: https://worphyazilim.com/worph/pages/assets/vendor/boxicons/fonts/boxicons.ttf
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\vendor\boxicons\fonts\boxicons.ttf
+Content Type: font/ttf
+
+Uri: https://worphyazilim.com/worph/pages/assets/vendor/boxicons/fonts/boxicons.svg?
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\vendor\boxicons\fonts\boxicons.svg
+Content Type: image/svg+xml
+
+Uri: https://worphyazilim.com/worph/pages/assets/vendor/owl.carousel/assets/owl.video.play.png
+File Name: c:\Downloaded Web Sites\worphyazilim.com\worph\pages\assets\vendor\owl.carousel\assets\owl.video.play.png
+Content Type: image/png
+
+Uri: https://worphyazilim.com/authorization/
+File Name: c:\Downloaded Web Sites\worphyazilim.com\authorization\index.htm
+Content Type: text/html
+
+Uri: https://worphyazilim.com/assets/css/style.css
+File Name: c:\Downloaded Web Sites\worphyazilim.com\assets\css\style.css
+Content Type: text/css
+
+Uri: https://worphyazilim.com/img/icon.png
+File Name: c:\Downloaded Web Sites\worphyazilim.com\img\icon.png
+Content Type: image/png
+
+Uri: https://worphyazilim.com/main/newdesign/bootstrap-new.css
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\newdesign\bootstrap-new.css
+Content Type: text/css
+
+Uri: https://worphyazilim.com/main/newdesign/orangenew.css
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\newdesign\orangenew.css
+Content Type: text/css
+
+Uri: https://worphyazilim.com/authorization/register/
+File Name: c:\Downloaded Web Sites\worphyazilim.com\authorization\register\index.htm
+Content Type: text/html
+
+Uri: https://worphyazilim.com/logo_new.png
+File Name: c:\Downloaded Web Sites\worphyazilim.com\logo_new.png
+Content Type: image/png
+
+Uri: https://worphyazilim.com/main/js/jQuery.min.js
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\js\jQuery.min.js
+Content Type: application/javascript
+
+Uri: https://worphyazilim.com/main/fonts/Ubuntu-Medium.eot
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\fonts\Ubuntu-Medium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://worphyazilim.com/main/fonts/Ubuntu-Medium.eot?
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\fonts\Ubuntu-Medium-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://worphyazilim.com/main/fonts/Ubuntu-Medium.woff
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\fonts\Ubuntu-Medium.woff
+Content Type: font/woff
+
+Uri: https://worphyazilim.com/main/fonts/Ubuntu-Medium.ttf
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\fonts\Ubuntu-Medium.ttf
+Content Type: font/ttf
+
+Uri: https://worphyazilim.com/main/fonts/Ubuntu-Bold.eot
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\fonts\Ubuntu-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://worphyazilim.com/main/fonts/Ubuntu-Bold.eot?
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\fonts\Ubuntu-Bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://worphyazilim.com/main/fonts/Ubuntu-Bold.woff
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\fonts\Ubuntu-Bold.woff
+Content Type: font/woff
+
+Uri: https://worphyazilim.com/main/fonts/Ubuntu-Bold.ttf
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\fonts\Ubuntu-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://worphyazilim.com/main/fonts/Ubuntu-Regular.eot
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\fonts\Ubuntu-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://worphyazilim.com/main/fonts/Ubuntu-Regular.eot?
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\fonts\Ubuntu-Regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://worphyazilim.com/main/fonts/Ubuntu-Regular.woff
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\fonts\Ubuntu-Regular.woff
+Content Type: font/woff
+
+Uri: https://worphyazilim.com/main/fonts/Ubuntu-Regular.ttf
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\fonts\Ubuntu-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://worphyazilim.com/main/fonts/poppins-v12-latin-regular.eot
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\fonts\poppins-v12-latin-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://worphyazilim.com/main/fonts/poppins-v12-latin-regular.eot?
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\fonts\poppins-v12-latin-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://worphyazilim.com/main/fonts/poppins-v12-latin-regular.woff
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\fonts\poppins-v12-latin-regular.woff
+Content Type: font/woff
+
+Uri: https://worphyazilim.com/main/fonts/poppins-v12-latin-regular.ttf
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\fonts\poppins-v12-latin-regular.ttf
+Content Type: font/ttf
+
+Uri: https://worphyazilim.com/main/fonts/poppins-v12-latin-200.eot
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\fonts\poppins-v12-latin-200.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://worphyazilim.com/main/fonts/poppins-v12-latin-200.eot?
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\fonts\poppins-v12-latin-200-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://worphyazilim.com/main/fonts/poppins-v12-latin-200.woff
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\fonts\poppins-v12-latin-200.woff
+Content Type: font/woff
+
+Uri: https://worphyazilim.com/main/fonts/poppins-v12-latin-200.ttf
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\fonts\poppins-v12-latin-200.ttf
+Content Type: font/ttf
+
+Uri: https://worphyazilim.com/main/fonts/poppins-v12-latin-500.eot
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\fonts\poppins-v12-latin-500.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://worphyazilim.com/main/fonts/poppins-v12-latin-500.eot?
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\fonts\poppins-v12-latin-500-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://worphyazilim.com/main/fonts/poppins-v12-latin-500.woff
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\fonts\poppins-v12-latin-500.woff
+Content Type: font/woff
+
+Uri: https://worphyazilim.com/main/fonts/poppins-v12-latin-500.ttf
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\fonts\poppins-v12-latin-500.ttf
+Content Type: font/ttf
+
+Uri: https://worphyazilim.com/main/fonts/poppins-v12-latin-700.eot
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\fonts\poppins-v12-latin-700.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://worphyazilim.com/main/fonts/poppins-v12-latin-700.eot?
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\fonts\poppins-v12-latin-700-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://worphyazilim.com/main/fonts/poppins-v12-latin-700.woff
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\fonts\poppins-v12-latin-700.woff
+Content Type: font/woff
+
+Uri: https://worphyazilim.com/main/fonts/poppins-v12-latin-700.ttf
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\fonts\poppins-v12-latin-700.ttf
+Content Type: font/ttf
+
+Uri: https://worphyazilim.com/main/images/arrow-down-index.png
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\images\arrow-down-index.png
+Content Type: image/png
+
+Uri: https://worphyazilim.com/main/images/titleslider-bg.png
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\images\titleslider-bg.png
+Content Type: image/png
+
+Uri: https://worphyazilim.com/main/images/bb-range-inv.png
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\images\bb-range-inv.png
+Content Type: image/png
+
+Uri: https://worphyazilim.com/main/images/slider-superior.png
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\images\slider-superior.png
+Content Type: image/png
+
+Uri: https://worphyazilim.com/main/images/razdel-fun.png
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\images\razdel-fun.png
+Content Type: image/png
+
+Uri: https://worphyazilim.com/main/images/topcase.png
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\images\topcase.png
+Content Type: image/png
+
+Uri: https://worphyazilim.com/main/images/item.png
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\images\item.png
+Content Type: image/png
+
+Uri: https://worphyazilim.com/index/agreement
+File Name: c:\Downloaded Web Sites\worphyazilim.com\index\agreement.html
+Content Type: text/html
+
+Uri: https://worphyazilim.com/main/admin_design/orangenew.css
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\admin_design\orangenew.css
+Content Type: text/css
+
+Uri: https://worphyazilim.com/index/functional
+File Name: c:\Downloaded Web Sites\worphyazilim.com\index\functional.html
+Content Type: text/html
+
+Uri: https://worphyazilim.com/index/buy
+File Name: c:\Downloaded Web Sites\worphyazilim.com\index\buy.html
+Content Type: text/html
+
+Uri: https://worphyazilim.com/main/fonts/GothamProRegular.eot
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\fonts\GothamProRegular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://worphyazilim.com/main/fonts/GothamProRegular.eot?
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\fonts\GothamProRegular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://worphyazilim.com/main/fonts/GothamProRegular.woff
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\fonts\GothamProRegular.woff
+Content Type: font/woff
+
+Uri: https://worphyazilim.com/main/fonts/GothamProRegular.ttf
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\fonts\GothamProRegular.ttf
+Content Type: font/ttf
+
+Uri: https://worphyazilim.com/main/fonts/GothamProLight.eot
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\fonts\GothamProLight.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://worphyazilim.com/main/fonts/GothamProLight.eot?
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\fonts\GothamProLight-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://worphyazilim.com/main/fonts/GothamProLight.woff
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\fonts\GothamProLight.woff
+Content Type: font/woff
+
+Uri: https://worphyazilim.com/main/fonts/GothamProLight.ttf
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\fonts\GothamProLight.ttf
+Content Type: font/ttf
+
+Uri: https://worphyazilim.com/main/fonts/GothamProMedium.eot
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\fonts\GothamProMedium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://worphyazilim.com/main/fonts/GothamProMedium.eot?
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\fonts\GothamProMedium-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://worphyazilim.com/main/fonts/GothamProMedium.woff
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\fonts\GothamProMedium.woff
+Content Type: font/woff
+
+Uri: https://worphyazilim.com/main/fonts/GothamProMedium.ttf
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\fonts\GothamProMedium.ttf
+Content Type: font/ttf
+
+Uri: https://worphyazilim.com/main/fonts/GothamProBlack.woff
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\fonts\GothamProBlack.woff
+Content Type: font/woff
+
+Uri: https://worphyazilim.com/main/fonts/GothamProBlack.ttf
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\fonts\GothamProBlack.ttf
+Content Type: font/ttf
+
+Uri: https://worphyazilim.com/main/css/flexslider.css
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\css\flexslider.css
+Content Type: text/css
+
+Uri: https://worphyazilim.com/main/js/jQuery.js
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\js\jQuery.js
+Content Type: application/javascript
+
+Uri: https://worphyazilim.com/main/js/slidfunct.js
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\js\slidfunct.js
+Content Type: application/javascript
+
+Uri: https://worphyazilim.com/img/posle.png
+File Name: c:\Downloaded Web Sites\worphyazilim.com\img\posle.png
+Content Type: image/png
+
+Uri: https://worphyazilim.com/img/do.png
+File Name: c:\Downloaded Web Sites\worphyazilim.com\img\do.png
+Content Type: image/png
+
+Uri: https://worphyazilim.com/main/js/jquery.flexslider-min.js
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\js\jquery.flexslider-min.js
+Content Type: application/javascript
+
+Uri: https://worphyazilim.com/main/js/main.js
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\js\main.js
+Content Type: application/javascript
+
+Uri: https://worphyazilim.com/main/js/jquery.easing.1.3.js
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\js\jquery.easing.1.3.js
+Content Type: application/javascript
+
+Uri: https://worphyazilim.com/main/js/bootstrap.min.js
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://worphyazilim.com/main/js/jquery.waypoints.min.js
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\js\jquery.waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://worphyazilim.com/main/js/jquery.stellar.min.js
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\js\jquery.stellar.min.js
+Content Type: application/javascript
+
+Uri: https://worphyazilim.com/main/js/jquery.countTo.js
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\js\jquery.countTo.js
+Content Type: application/javascript
+
+Uri: https://worphyazilim.com/main/js/jquery.magnific-popup.min.js
+File Name: c:\Downloaded Web Sites\worphyazilim.com\main\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
